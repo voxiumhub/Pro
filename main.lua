@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://pastefy-x-zenith-new.vercel.app/api/p/hr64vV8g'))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImExY2FiNzMxLTFhODctNDI1Ni04M2UzLWQ3ZTYwODdkNDNmYyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
